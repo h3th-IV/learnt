@@ -1,0 +1,91 @@
+Day 2
+
+    Constants
+    Comments
+    Error types
+    Builtin functions
+    Initializations
+    Strings
+
+Day 3
+
+    Composite data structures (arrays and slices)
+    Comparison of array and slice
+    fmt package indepth (Scanf, Printf, Sprintf)
+    builtin | append, len,
+    Exercise
+
+Day 4
+
+    Continue map operations.
+
+    Comma, okay idiom
+
+    Structs
+
+    Data parsing for structs using json tags
+
+    Modules and Packages
+
+    Visibility rules for identifiers
+
+    Visibility rules for packages/modules
+
+Day 5
+
+    Writing functions
+    Methods tied to a struct. Methods are function implementations for structs.
+
+Day 6
+
+    Blocks: local block, global block, universe block
+    Shadowing
+    Control flow: if else statements
+    For loops in four ways
+
+Day 7 and 8
+
+    Control flow: switch case | normal switch statements and blank switch statements.
+    Error handling: error, panic, recover
+    Pointers: A-Z of Pointers. | variables, pointers, dereferences.
+
+Day 9
+
+    Continuing Pointers
+    Functions with Pointers (constructors)
+    Structs and pointers
+    Methods and pointers and structs
+
+Day 10
+
+    Interfaces
+
+Day 11
+
+    Error Handling with err
+    Errors with errors package
+    Logging with log package
+        Levels of Logging: ERROR, INFO, FATAL, WARNING, CRITICAL
+        Implementation
+
+Day 12
+
+    Problem solving
+    bufio and scanners
+    log and errors
+    fmt and standard IO operations
+
+Day 14
+
+    More problem solving
+    os ops for creating files, folders, giving permissions
+
+Day 15
+
+    How to create and use custom packages.
+    Practicalization of this.
+
+Day 16
+
+    CLI app development | modeling
+

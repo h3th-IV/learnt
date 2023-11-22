@@ -1,0 +1,11 @@
+Task Management CLI app
+    -- https://github.com/B2N10X30/Task-Manager
+
+
+banking operations package
+    -- https://github.com/B2N10X30/banker
+
+File manager packages
+    --https://github.com/B2N10X30/Go-file-Manager
+
+    all packages used the concepts of structs, methods and other go concepts
